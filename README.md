@@ -6,4 +6,4 @@
 ## **Technical Background**
 Almost all of my experience in programming comes from my classes at GVSU. Through them I have had the oppurtunity to learn multiple languages including Python, C, C++, and JavaScript. Although I would say that I am competent in each, I have not had the chance yet to fledge out my learning to become a master of any. With the work I have done in multiple languages it has allowed me to learn good techniques and methods in how to approach and take on any programming challenge. Anywhere from a small program to a large scale project. 
 ## **Meme**
-[https://www.cnet.com/a/img/resize/f812da3969350cc0b0afd5bf35ca4ffbf08cb696/hub/2019/05/22/1b710a6b-5f4d-4987-a046-c23674b221a3/picard-meme-facepalm.jpg?auto=webp&width=1200]
+[Piccard Facepalm](https://www.cnet.com/a/img/resize/f812da3969350cc0b0afd5bf35ca4ffbf08cb696/hub/2019/05/22/1b710a6b-5f4d-4987-a046-c23674b221a3/picard-meme-facepalm.jpg?auto=webp&width=1200)
